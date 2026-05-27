@@ -6,7 +6,7 @@ Home of Harrison's AI agent.
 
 ```
 .
-├── CLAUDE.md          # (added in Week 1 of EnterpriseClaw) — agent identity
+├── CLAUDE.md          # agent identity — Strategic Advisor configuration
 ├── memory/
 │   ├── README.md
 │   ├── working.md     # (not yet created) — current priorities & active context
@@ -18,9 +18,8 @@ Home of Harrison's AI agent.
 
 ## Status
 
-Scaffolding only. The agent identity file (`CLAUDE.md`) and the contents of
-`memory/`, `skills/`, and `context/` will be filled in during Week 1 of the
-EnterpriseClaw program.
+Agent identity (`CLAUDE.md`) is in place. The contents of `memory/`, `skills/`,
+and `context/` will be filled in as the EnterpriseClaw program progresses.
 
 ## Owner
 
